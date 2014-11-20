@@ -1,7 +1,7 @@
 seizure-detection-boost
 =======================
 
-The notebook postprocessing.ipynb take a submission to the kaggle
+The notebook [postprocessing.ipynb](http://nbviewer.ipython.org/github/udibr/seizure-detection-boost/blob/master/postprocessing.ipynb) take a submission to the kaggle
 competition:
 
 https://www.kaggle.com/c/seizure-prediction
